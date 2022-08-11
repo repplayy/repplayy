@@ -1,7 +1,7 @@
 ## Hello word! I'm Mikael Lopes 👋
 
-- 🔭 I’m currently working on a React navitive project to college  
-- 🌱 I’m currently learning Mobile development.
+
+- 🌱 I’m currently learning Asp.Net.
 
 
 <div align="center">
