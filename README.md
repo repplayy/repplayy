@@ -1,7 +1,7 @@
 ## Hello word! I'm Mikael Lopes 👋
 
 
-- 🌱 I’m currently learning Asp.Net Core.
+- 🌱 I’m currently Working with RPA.
 
 
 <div align="center">
